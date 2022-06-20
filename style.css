@@ -1,0 +1,32 @@
+body{
+    background-color:bisque;
+    background-image: url('image2.jpg');
+        background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+h1 {
+    border: 6px solid black;
+    padding: 80px;
+    margin: 100px;
+color:green;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 500%;
+}
+p {
+    border: 5px dotted rgb(98, 0, 255);
+    padding: 80px;
+    margin: 30px;
+    color:red;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 400%;
+}
+    a{
+        font-size: 200%;   
+    }
+    
+   
+    button{
+        font-size: 200%;   
+    }
+    
